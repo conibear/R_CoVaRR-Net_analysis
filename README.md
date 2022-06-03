@@ -11,3 +11,5 @@ If you are interested to learn more about CoVaRR-Net, you can visit the [website
 **1. COV-Breakthrough: A collaborative project with Gommerman's Laboratory at University of Toronto**
 
 **2. Recover-QC: A collaborative project with Decaluwe Laboratory at University of Montreal**
+
+**Projects will constantly update so STAY TUNED!**
